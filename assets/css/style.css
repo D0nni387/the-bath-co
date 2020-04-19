@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap');
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.para {
+    font-family: "Montserrat", sans-serif;
+}
+
+.splash1 {
+    background-image: url(/assets/images/splash1.png);
+    height: 20rem;
+}
+.splash2 {
+    background-image: url(/assets/images/splash2.png);
+    height: 20rem;
+}
+.splash3 {
+    background-image: url(/assets/images/splash3.png);
+    height: 20rem;
+}
+.splash4 {
+    background-image: url(/assets/images/splash4.png);
+    height: 20rem;
+}
+
+
+.logo {
+
+}
